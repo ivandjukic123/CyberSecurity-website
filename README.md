@@ -1,7 +1,7 @@
-# syberSecurity-website
+# cyberSecurity-website
 https://ivandjukic123.github.io/syberSecurity-website/
 
-- Syber Security Website Project.
+- Cyber Security Website Project.
 - Modern CSS with clean design and effects.
 - Advanced responsive design using media queries.
 
