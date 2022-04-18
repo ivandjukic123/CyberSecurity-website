@@ -1,5 +1,4 @@
 # cyberSecurity-website
-https://ivandjukic123.github.io/syberSecurity-website/
 https://ivandjukic123.github.io/CyberSecurity-website/
 
 - Cyber Security Website Project.
